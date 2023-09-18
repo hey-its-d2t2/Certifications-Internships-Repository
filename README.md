@@ -143,11 +143,25 @@
 <h3>Google tools...</h3>
 <hr>
 
+![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ac06010a-8d5c-4403-a86c-fbfaad97a16e)
 
+![UC-9fa518fb-5906-4264-8d56-4c05af8592dd](https://github.com/hey-its-d2t2/Achivements/assets/63626210/7d778641-c3a2-4d1b-81f5-ce9336a020a4)
 
+![UC-09b3d514-acbe-4897-8609-308c2de6dcdc](https://github.com/hey-its-d2t2/Achivements/assets/63626210/01e8dac8-887a-4502-baf1-d04ac48d9754)
 
+![UC-8209f13e-ee62-4e6c-9fff-15006b866f7d](https://github.com/hey-its-d2t2/Achivements/assets/63626210/77eeed76-b157-4166-99c0-7fd70ea845c6)
 
+![UC-62986a5c-e8be-4ccc-929f-c46fa7ee693f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/52ba0bbe-f064-4546-96de-be7947649bdd)
 
+![UC-ea93aa22-26ed-47da-9b63-b73378d6b003](https://github.com/hey-its-d2t2/Achivements/assets/63626210/71fc4ffb-8de7-4f01-90d5-30f16b4a42bb)
+
+<hr>
+<h3>Accounting & Finance...</h3>
+<hr>
+
+![UC-adb3b853-51e4-494b-ad08-5152d9becc7c](https://github.com/hey-its-d2t2/Achivements/assets/63626210/fb194e05-8198-4bd6-be73-5e3ceffec631)
+
+![UC-890b40b2-98ed-445f-b29b-9b23e8c8e914](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a300a573-abcc-4349-9f42-ff3f1616e976)
 
 
 
