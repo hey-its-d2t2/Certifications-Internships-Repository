@@ -43,6 +43,8 @@
 
 ![FireShot Capture 036 - Free Online Courses from the World’s Top Publishers - alison com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/edcaa8d1-8792-4b6b-8840-9f06384c34e5)
 
+![certificate-linux-for-absolute-beginners](https://github.com/hey-its-d2t2/Achivements/assets/63626210/22688037-0b85-4a21-9ed2-0467ede0ff54)
+
 ![044fe04dc55d9a221e259b8ee43b8f49bf1f4165](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c70566d2-987e-442f-aac9-a592c76e8fde)
 
 ![UC-1cfe9752-0d04-4361-a6de-33040d7d27fa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/89780f28-c989-4273-95ce-019570cef0e7)
@@ -52,6 +54,9 @@
 ![UC-7df82bfc-9fd5-4730-b3e2-1dacbc11047f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1ae797aa-ecb0-44ce-8ba4-14d4d74d2e50)
 
 ![UC-8b87069a-5399-4419-a095-55a36a59c049](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d595c6c7-6d12-475e-91c5-8bf1397d2c81)
+
+![UC-dfb91319-b1df-455b-a9b5-96398ea7ea4d](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b7ea68e8-1acb-4391-be6b-1ba875b525c0)
+
 
 ![UC-8db46d0d-6d00-4203-964c-7c5282d81859](https://github.com/hey-its-d2t2/Achivements/assets/63626210/75a86bc3-95d0-43fb-8422-6e03a7f915e1)
 
@@ -85,6 +90,8 @@
 <h3>Web Development & Design...</h3>
 <hr>
 
+![certi_image465466e1e9f764174262144f9acf49edc6acaf jpg (1000×749)_ - files codingninjas in](https://github.com/hey-its-d2t2/Achivements/assets/63626210/3b27b1e5-ec42-4b87-b8c2-3acc8f45cf97)
+
 ![UC-a131f4ec-bb3d-495f-a2fb-e3d50031ea72](https://github.com/hey-its-d2t2/Achivements/assets/63626210/588b0a72-180e-4d60-a703-a08c6960faea)
 
 ![UC-5e6bdcb6-daf9-405e-9b2c-4c1a45c31358](https://github.com/hey-its-d2t2/Achivements/assets/63626210/53c4d641-3f83-4e36-8369-b7b36a8cd870)
@@ -102,6 +109,43 @@
 ![UC-85148005-75bd-4a8b-8525-82a0bcb9b90f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/49bd5bf6-e2d5-41ba-b10c-060d95e31f75)
 
 ![UC-fa2e1e0c-0da6-44d8-9e2c-795452ceb85f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0e92dccc-f25e-4ffd-8002-1d7a0f4f4164)
+
+<hr>
+<h3>Programming...</h3>
+<hr>
+
+![UC-750316c7-de53-4738-97e7-ff5e7ff6174e](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1dce6b40-942f-43b1-86d9-505b389c496c)
+
+![UC-5b502e85-dab7-47ac-a43c-1726f9567961](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e93fba1b-9395-4691-9783-939b42e8e271)
+
+![UC-36ccc3c5-f915-430a-896a-ccb630eac755](https://github.com/hey-its-d2t2/Achivements/assets/63626210/167d07c3-02f7-4608-92ec-7929317f6107)
+
+![UC-60ad0229-6dd9-468d-8cfe-0635f326870c](https://github.com/hey-its-d2t2/Achivements/assets/63626210/cec05185-31f5-45d2-a9f9-e18dbe48f6b6)
+
+![UC-83dacf1c-94cb-402f-b3e3-d55b69f3e141](https://github.com/hey-its-d2t2/Achivements/assets/63626210/50c88825-5ae0-4bf2-8583-112e240f1db8)
+
+![UC-a1156645-9829-4f5a-b107-1260adc4fd82](https://github.com/hey-its-d2t2/Achivements/assets/63626210/cdb7b25c-ad50-4d13-a2cd-11c9f9269983)
+
+![certificate-Learn-the-Basics-of-C-Programming-Language](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d6ad6250-a32b-402f-b99c-5977a1644d43)
+
+
+![UC-c607fc20-945c-4dd2-984a-afadec69b788](https://github.com/hey-its-d2t2/Achivements/assets/63626210/da8c0743-bff3-496e-9c23-afd22a1cadc2)
+
+
+
+![UC-a131f4ec-bb3d-495f-a2fb-e3d50031ea72](https://github.com/hey-its-d2t2/Achivements/assets/63626210/495c67b3-1c2e-460d-9d53-5c235e3725a3)
+
+![UC-e0cda6c3-2d5c-404a-a603-6a1edf8393bf](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9ddb9954-4c78-4140-9765-97b38eb9dd3a)
+
+
+
+<hr>
+<h3>Google tools...</h3>
+<hr>
+
+
+
+
 
 
 
