@@ -155,6 +155,8 @@
 
 ![UC-ea93aa22-26ed-47da-9b63-b73378d6b003](https://github.com/hey-its-d2t2/Achivements/assets/63626210/71fc4ffb-8de7-4f01-90d5-30f16b4a42bb)
 
+![UC-e11a8ee1-fcab-4c01-a2e0-9743e53dc882](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1e969217-b2f8-4a10-ba3a-3eb10fe2ce33)
+
 <hr>
 <h3>Accounting & Finance...</h3>
 <hr>
@@ -181,6 +183,23 @@
 <h3>Microsoft Office...</h3>
 <hr>
 
+![UC-2ca7fffa-c107-4594-b0c9-68ce8122dafa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1e3af6e0-7fbb-4121-a3fb-0a08e30a4d20)
 
+![UC-2db0cc00-b5a2-4aaf-b27b-9544a4bb12a7](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0ba493cd-b2fd-4db5-b16d-937000babe1c)
+
+![UC-91e6ed7a-0bd6-4a35-898d-963239f9f4e1](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e5cf053a-180e-4a25-8eaa-602a6c0b8b06)
+
+
+![UC-318cd8c8-66df-4a02-bf42-2655839eaa15](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9617c453-7c84-4a3e-b2ec-037e5b5b93e6)
+
+![UC-984dbe8a-792e-4a15-8615-c6233f5e6cc5](https://github.com/hey-its-d2t2/Achivements/assets/63626210/48b1febe-22c3-4677-b8c3-2430feaa2256)
+
+![UC-c978547b-2caf-47a7-a7ab-8b5d347a9bdd](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c5bb441a-ff94-4187-84d9-2013108327c3)
+
+![UC-df21ccc8-89fd-4a91-b251-506d404eee82](https://github.com/hey-its-d2t2/Achivements/assets/63626210/94df0688-5f42-4f8a-8279-077ac88f8778)
+
+![UC-e94454b7-8ffd-4df1-876a-520a3f5c8931](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b098971c-61b8-4829-9cec-7844517a8e94)
+
+![UC-f0a27dd0-4a00-4793-997f-037bb3f00411](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b381d2cf-a984-409a-9588-312eafafc2a1)
 
 
