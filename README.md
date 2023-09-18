@@ -8,6 +8,12 @@
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
 ![Deepak+EC-Council+EHE](https://github.com/hey-its-d2t2/Achivements/assets/63626210/beefa64d-9d4d-448a-97d4-342c078f0970)
 ![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/57d31122-4b88-4b12-a143-acfa3912493f)
+
+![IntroCyb](https://github.com/hey-its-d2t2/Achivements/assets/63626210/10ede373-572e-4870-a941-ca18c2d3b644)
+
+![FireShot Capture 038 -  - ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ff4c0947-f5c4-49ed-9213-d6eda019be0d)
+
+
 <hr>
 <h3>Badges...</h3>
 <hr>
@@ -34,6 +40,8 @@
 ![TP-GBK56E4U](https://github.com/hey-its-d2t2/Achivements/assets/63626210/bf1adb9a-78d8-41b5-af5f-91089273be2d)
 
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/2b60697c-ab75-4131-8f22-f8d9901bdace)
+
+![FireShot Capture 036 - Free Online Courses from the World’s Top Publishers - alison com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/edcaa8d1-8792-4b6b-8840-9f06384c34e5)
 
 ![044fe04dc55d9a221e259b8ee43b8f49bf1f4165](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c70566d2-987e-442f-aac9-a592c76e8fde)
 
