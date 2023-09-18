@@ -163,5 +163,24 @@
 
 ![UC-890b40b2-98ed-445f-b29b-9b23e8c8e914](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a300a573-abcc-4349-9f42-ff3f1616e976)
 
+<hr>
+<h3>Video, Photo, Logo...</h3>
+<hr>
+
+![UC-2661af95-6544-4957-bd09-2f6bb44cd9e6](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d506d897-8058-4a44-a90b-e2ebca2d636b)
+
+![UC-954d8006-4f65-427f-9bef-1aeef6361edd](https://github.com/hey-its-d2t2/Achivements/assets/63626210/98b4eeef-7e61-4634-9ac8-7477052ed333)
+
+![UC-813b0cdc-f048-49d7-950d-d1bdb543a45a](https://github.com/hey-its-d2t2/Achivements/assets/63626210/04632abb-e19f-4d02-b66c-04a2ca8a47ec)
+
+![UC-44aff49f-c902-4f1a-b2e0-8a72d02b10b1](https://github.com/hey-its-d2t2/Achivements/assets/63626210/38f279dd-63c9-4c61-a7de-a880f05327d8)
+
+![UC-14a6efb5-e368-4277-bbab-4f60f4495e65](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8820cc4b-19b2-4a18-a019-641b58fa034e)
+
+<hr>
+<h3>Microsoft Office...</h3>
+<hr>
+
+
 
 
