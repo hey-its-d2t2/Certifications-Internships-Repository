@@ -4,6 +4,8 @@
 <h3>Recent...</h3>
 <hr>
 
+![cert_CNJ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f7a17e03-edcf-4f67-9f5c-3ded13309b6a)
+
 ![certi_image465466e1e9f764174262144f9acf49edc6acaf jpg (1000×749)_ - files codingninjas in](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0ae60dc7-0db5-452e-9893-d21098ea3086)
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
 ![Deepak+EC-Council+EHE](https://github.com/hey-its-d2t2/Achivements/assets/63626210/beefa64d-9d4d-448a-97d4-342c078f0970)
@@ -28,6 +30,15 @@
 ![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a)
 
 ![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e)
+
+![WhatsApp Image 2023-09-20 at 10 30 57 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/00f3ab5e-1d78-4f3a-9241-19b77b9069d5)
+
+![WhatsApp Image 2023-09-20 at 10 57 12 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c47495f5-f6a8-415d-bba4-60ccc248739e)
+![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49)
+
+![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620)
+![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440)
+
 
 <hr>
 <h3>Cyber security & Ethical Hacking...</h3>
