@@ -68,6 +68,9 @@
 
 ![044fe04dc55d9a221e259b8ee43b8f49bf1f4165](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c70566d2-987e-442f-aac9-a592c76e8fde)
 
+![cysec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/6bb3bfa9-1d40-4d05-a542-61c3a2275c47)
+
+
 ![UC-1cfe9752-0d04-4361-a6de-33040d7d27fa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/89780f28-c989-4273-95ce-019570cef0e7)
 
 ![UC-7c362d22-fea0-490b-b01f-099a0602dc06](https://github.com/hey-its-d2t2/Achivements/assets/63626210/fcfee2bd-6286-49fe-9f5d-ce1467a79585)
@@ -139,6 +142,8 @@
 
 ![certificate-Learn-Socket-Programming-Tutorial-in-C-from-Scratch (1)](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a5418d46-5115-48db-8902-85fbe4ed3b8f)
 
+
+![Python](https://github.com/hey-its-d2t2/Achivements/assets/63626210/6e7ecc46-0c73-495c-8dfa-4a328daaf6af)
 
 ![UC-750316c7-de53-4738-97e7-ff5e7ff6174e](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1dce6b40-942f-43b1-86d9-505b389c496c)
 
@@ -214,6 +219,10 @@
 ![UC-2db0cc00-b5a2-4aaf-b27b-9544a4bb12a7](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0ba493cd-b2fd-4db5-b16d-937000babe1c)
 
 ![UC-91e6ed7a-0bd6-4a35-898d-963239f9f4e1](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e5cf053a-180e-4a25-8eaa-602a6c0b8b06)
+
+![MExcl2](https://github.com/hey-its-d2t2/Achivements/assets/63626210/3ba2150d-b271-49f5-a02d-6732f7b10753)
+
+
 
 
 ![UC-318cd8c8-66df-4a02-bf42-2655839eaa15](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9617c453-7c84-4a3e-b2ec-037e5b5b93e6)
