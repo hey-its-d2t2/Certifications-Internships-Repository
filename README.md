@@ -4,6 +4,8 @@
 <h3>Recent...</h3>
 <hr>
 
+![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8db8ab32-326c-4f2a-9b33-2d98af833098)
+
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
 ![Deepak+EC-Council+EHE](https://github.com/hey-its-d2t2/Achivements/assets/63626210/beefa64d-9d4d-448a-97d4-342c078f0970)
 
@@ -53,6 +55,8 @@
 <hr>
 <h3>Cyber security & Ethical Hacking...</h3>
 <hr>
+
+![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9d9ce078-090e-46aa-9fea-c4fdd496a5dc)
 
 ![IntroCyb](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ffd0ad0d-3af3-4466-b256-f3754356ee9a)
 
