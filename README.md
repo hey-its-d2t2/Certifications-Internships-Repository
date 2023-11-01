@@ -24,6 +24,10 @@
 
 
 ![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/57d31122-4b88-4b12-a143-acfa3912493f)
+
+![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b480faf1-0fae-4369-8d5f-a75014841131)
+
+
 <hr>
 <h3>Badges...</h3>
 <hr>
@@ -217,6 +221,9 @@
 <hr>
 <h3>Microsoft Office...</h3>
 <hr>
+
+![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1ead32c9-7996-4f09-a935-7a9be14c2401)
+
 
 ![UC-2ca7fffa-c107-4594-b0c9-68ce8122dafa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1e3af6e0-7fbb-4121-a3fb-0a08e30a4d20)
 
