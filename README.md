@@ -4,6 +4,9 @@
 <h3>Recent...</h3>
 <hr>
 
+![DeepakSingh-Responsive-Web-Development-freeCodeCamp org](https://github.com/hey-its-d2t2/Achivements/assets/63626210/31f63c02-945b-4df8-896b-2617df208fd5)
+
+
 ![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8db8ab32-326c-4f2a-9b33-2d98af833098)
 
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
@@ -121,6 +124,8 @@
 <hr>
 <h3>Web Development & Design...</h3>
 <hr>
+
+![DeepakSingh-Responsive-Web-Development-freeCodeCamp org](https://github.com/hey-its-d2t2/Achivements/assets/63626210/dcb9cd9f-be05-451b-b760-27b842c54762)
 
 ![certi_image465466e1e9f764174262144f9acf49edc6acaf jpg (1000×749)_ - files codingninjas in](https://github.com/hey-its-d2t2/Achivements/assets/63626210/3b27b1e5-ec42-4b87-b8c2-3acc8f45cf97)
 
