@@ -1,36 +1,29 @@
 # Achivements
-<h1>🥳👨‍🎓Achivements of learning on different plateforms i.e. Certificates....</h1>
+<h1>🥳👨‍🎓Achivements of learning on different platforms i.e. Certificates....</h1>
 <hr>
 <h3>Recent...</h3>
 <hr>
 
+![softeareengineer-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a96072e0-2f08-4d7f-b1ec-be6f87adb3f5)
+
+![sql-inter-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5c8aa602-a2d0-453b-885f-386d9e1d3d0d)
+
+![sql-basics-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d3968373-fe54-4e51-8708-263bba96726d)
+
+![Java-HackerRank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/2d432213-27c0-47be-898e-bf66e340005e)
+
 ![DeepakSingh-Responsive-Web-Development-freeCodeCamp org](https://github.com/hey-its-d2t2/Achivements/assets/63626210/31f63c02-945b-4df8-896b-2617df208fd5)
-
-
 ![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8db8ab32-326c-4f2a-9b33-2d98af833098)
-
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
 ![Deepak+EC-Council+EHE](https://github.com/hey-its-d2t2/Achivements/assets/63626210/beefa64d-9d4d-448a-97d4-342c078f0970)
-
-
 ![IntroCyb](https://github.com/hey-its-d2t2/Achivements/assets/63626210/10ede373-572e-4870-a941-ca18c2d3b644)
-
 ![FireShot Capture 038 -  - ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ff4c0947-f5c4-49ed-9213-d6eda019be0d)
 ![certificate-Learn-Socket-Programming-Tutorial-in-C-from-Scratch (1)](https://github.com/hey-its-d2t2/Achivements/assets/63626210/78da30f3-d679-4c6c-9434-9c8175c0bc1d)
-
 ![java_cnj](https://github.com/hey-its-d2t2/Achivements/assets/63626210/67eb4d67-5d9a-4f55-8df5-f463f2745978)
-
-
 ![cert_CNJ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f7a17e03-edcf-4f67-9f5c-3ded13309b6a)
-
 ![certi_image465466e1e9f764174262144f9acf49edc6acaf jpg (1000×749)_ - files codingninjas in](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0ae60dc7-0db5-452e-9893-d21098ea3086)
-
-
 ![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/57d31122-4b88-4b12-a143-acfa3912493f)
-
 ![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b480faf1-0fae-4369-8d5f-a75014841131)
-
-
 <hr>
 <h3>Badges...</h3>
 <hr>
@@ -151,13 +144,12 @@
 <h3>Programming...</h3>
 <hr>
 
+![sql-inter-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/346dda7c-947f-4f85-bea7-64bdfa31fa8a)
+![sql-basics-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/74d3b3df-eaa3-4ade-8a43-6e4264e32cd7)
+![Java-HackerRank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0a4cf435-4543-4893-b04e-1b56824a8d2f)
 ![java_cnj](https://github.com/hey-its-d2t2/Achivements/assets/63626210/67eb4d67-5d9a-4f55-8df5-f463f2745978)
-
 ![certificate-Learn-Socket-Programming-Tutorial-in-C-from-Scratch (1)](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a5418d46-5115-48db-8902-85fbe4ed3b8f)
-
-
 ![Python](https://github.com/hey-its-d2t2/Achivements/assets/63626210/6e7ecc46-0c73-495c-8dfa-4a328daaf6af)
-
 ![UC-750316c7-de53-4738-97e7-ff5e7ff6174e](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1dce6b40-942f-43b1-86d9-505b389c496c)
 
 ![UC-5b502e85-dab7-47ac-a43c-1726f9567961](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e93fba1b-9395-4691-9783-939b42e8e271)
@@ -169,14 +161,8 @@
 ![UC-83dacf1c-94cb-402f-b3e3-d55b69f3e141](https://github.com/hey-its-d2t2/Achivements/assets/63626210/50c88825-5ae0-4bf2-8583-112e240f1db8)
 
 ![UC-a1156645-9829-4f5a-b107-1260adc4fd82](https://github.com/hey-its-d2t2/Achivements/assets/63626210/cdb7b25c-ad50-4d13-a2cd-11c9f9269983)
-
 ![certificate-Learn-the-Basics-of-C-Programming-Language](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d6ad6250-a32b-402f-b99c-5977a1644d43)
-
-
 ![UC-c607fc20-945c-4dd2-984a-afadec69b788](https://github.com/hey-its-d2t2/Achivements/assets/63626210/da8c0743-bff3-496e-9c23-afd22a1cadc2)
-
-
-
 ![UC-a131f4ec-bb3d-495f-a2fb-e3d50031ea72](https://github.com/hey-its-d2t2/Achivements/assets/63626210/495c67b3-1c2e-460d-9d53-5c235e3725a3)
 
 ![UC-e0cda6c3-2d5c-404a-a603-6a1edf8393bf](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9ddb9954-4c78-4140-9765-97b38eb9dd3a)
@@ -237,10 +223,6 @@
 ![UC-91e6ed7a-0bd6-4a35-898d-963239f9f4e1](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e5cf053a-180e-4a25-8eaa-602a6c0b8b06)
 
 ![MExcl2](https://github.com/hey-its-d2t2/Achivements/assets/63626210/3ba2150d-b271-49f5-a02d-6732f7b10753)
-
-
-
-
 ![UC-318cd8c8-66df-4a02-bf42-2655839eaa15](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9617c453-7c84-4a3e-b2ec-037e5b5b93e6)
 
 ![UC-984dbe8a-792e-4a15-8615-c6233f5e6cc5](https://github.com/hey-its-d2t2/Achivements/assets/63626210/48b1febe-22c3-4677-b8c3-2430feaa2256)
@@ -252,5 +234,4 @@
 ![UC-e94454b7-8ffd-4df1-876a-520a3f5c8931](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b098971c-61b8-4829-9cec-7844517a8e94)
 
 ![UC-f0a27dd0-4a00-4793-997f-037bb3f00411](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b381d2cf-a984-409a-9588-312eafafc2a1)
-
 
