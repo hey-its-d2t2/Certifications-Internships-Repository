@@ -6,6 +6,8 @@
 
 ![softeareengineer-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a96072e0-2f08-4d7f-b1ec-be6f87adb3f5)
 
+![problem-solver-basic-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/bfc36211-a59f-41f4-8899-f820a73c97f2)
+
 ![sql-inter-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5c8aa602-a2d0-453b-885f-386d9e1d3d0d)
 
 ![sql-basics-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d3968373-fe54-4e51-8708-263bba96726d)
@@ -143,6 +145,8 @@
 <hr>
 <h3>Programming...</h3>
 <hr>
+
+![problem-solver-basic-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f14227a5-652c-446c-848f-7ddf88532a7c)
 
 ![sql-inter-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/346dda7c-947f-4f85-bea7-64bdfa31fa8a)
 ![sql-basics-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/74d3b3df-eaa3-4ade-8a43-6e4264e32cd7)
