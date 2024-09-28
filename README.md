@@ -4,6 +4,8 @@
 <h3>Recent...</h3>
 <hr>
 
+![Future-Inter-Certificatre](https://github.com/user-attachments/assets/1d222077-97e7-42ea-b901-0ae3b2715e2f)
+
 ![softeareengineer-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a96072e0-2f08-4d7f-b1ec-be6f87adb3f5)
 
 ![problem-solver-basic-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/bfc36211-a59f-41f4-8899-f820a73c97f2)
@@ -53,7 +55,12 @@
 
 ![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
 
+<hr>
+<h3> Internship's </h3>
 
+![Future-Inter-Certificatre](https://github.com/user-attachments/assets/0702b79a-c9bf-4d68-b3a6-7a20393edcb6)
+
+<hr>
 <hr>
 <h3>Cyber security & Ethical Hacking...</h3>
 <hr>
