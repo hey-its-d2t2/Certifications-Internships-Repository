@@ -1,4 +1,4 @@
-![lor-prod](https://github.com/user-attachments/assets/820122d3-8d7c-4d5f-892d-e89a0192a8eb)# Achivements
+# Achivements
 <h1>🥳👨‍🎓Achivements of learning on different platforms i.e. Certificates....</h1>
 <hr>
 <h3>Recent...</h3>
@@ -23,43 +23,41 @@
 ![Java-HackerRank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/2d432213-27c0-47be-898e-bf66e340005e)
 
 ![DeepakSingh-Responsive-Web-Development-freeCodeCamp org](https://github.com/hey-its-d2t2/Achivements/assets/63626210/31f63c02-945b-4df8-896b-2617df208fd5)
+
 ![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8db8ab32-326c-4f2a-9b33-2d98af833098)
+
 ![TP-11NXVQ8K](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8ee0b1f3-e154-4ad5-b070-5f569983cc78)
+
 ![Deepak+EC-Council+EHE](https://github.com/hey-its-d2t2/Achivements/assets/63626210/beefa64d-9d4d-448a-97d4-342c078f0970)
+
 ![IntroCyb](https://github.com/hey-its-d2t2/Achivements/assets/63626210/10ede373-572e-4870-a941-ca18c2d3b644)
+
 ![FireShot Capture 038 -  - ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ff4c0947-f5c4-49ed-9213-d6eda019be0d)
+
 ![certificate-Learn-Socket-Programming-Tutorial-in-C-from-Scratch (1)](https://github.com/hey-its-d2t2/Achivements/assets/63626210/78da30f3-d679-4c6c-9434-9c8175c0bc1d)
+
 ![java_cnj](https://github.com/hey-its-d2t2/Achivements/assets/63626210/67eb4d67-5d9a-4f55-8df5-f463f2745978)
+
 ![cert_CNJ](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f7a17e03-edcf-4f67-9f5c-3ded13309b6a)
+
 ![certi_image465466e1e9f764174262144f9acf49edc6acaf jpg (1000×749)_ - files codingninjas in](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0ae60dc7-0db5-452e-9893-d21098ea3086)
+
 ![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/57d31122-4b88-4b12-a143-acfa3912493f)
+
 ![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b480faf1-0fae-4369-8d5f-a75014841131)
+
 <hr>
 <h3>Badges...</h3>
 <hr>
 
-![I2CS__1_](https://github.com/hey-its-d2t2/Achivements/assets/63626210/21151613-b604-456c-9cad-3d5ac15d9f81)
-
-![computer-hardware-basics](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5a841e4b-f639-4c39-8ef9-9ec6051455f6)
-
-
-![1694946149178](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ef584661-6ac9-4927-be6a-e39db062b76d)
-
-![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a)
-
-![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e)
+![I2CS__1_](https://github.com/hey-its-d2t2/Achivements/assets/63626210/21151613-b604-456c-9cad-3d5ac15d9f81) ![computer-hardware-basics](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5a841e4b-f639-4c39-8ef9-9ec6051455f6) ![1694946149178](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ef584661-6ac9-4927-be6a-e39db062b76d) ![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a) ![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e)
 
 ![WhatsApp Image 2023-09-20 at 10 30 57 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/00f3ab5e-1d78-4f3a-9241-19b77b9069d5)
 
 ![WhatsApp Image 2023-09-20 at 10 57 12 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c47495f5-f6a8-415d-bba4-60ccc248739e)
 
 
-![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49)
-
-![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620)
-![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440)
-
-![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
+![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49) ![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620) ![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440) ![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
 
 <hr>
 <h3> Internship's </h3>
@@ -70,7 +68,6 @@
 
 ![Future-Inter-Certificatre](https://github.com/user-attachments/assets/0702b79a-c9bf-4d68-b3a6-7a20393edcb6)
 
-<hr>
 <hr>
 <h3>Cyber security & Ethical Hacking...</h3>
 <hr>
