@@ -1,8 +1,12 @@
-# Achivements
+![lor-prod](https://github.com/user-attachments/assets/820122d3-8d7c-4d5f-892d-e89a0192a8eb)# Achivements
 <h1>🥳👨‍🎓Achivements of learning on different platforms i.e. Certificates....</h1>
 <hr>
 <h3>Recent...</h3>
 <hr>
+
+![prodigy-certifiacate](https://github.com/user-attachments/assets/747efa7b-a505-4346-b8d4-be3da751930e)
+
+![lor-prod](https://github.com/user-attachments/assets/91e07647-38f7-48aa-95ff-d580a6e780ca)
 
 ![PSA-Certificate](https://github.com/user-attachments/assets/b6292da4-24f5-4cbe-85b1-f823b00b93bf)
 
@@ -59,6 +63,10 @@
 
 <hr>
 <h3> Internship's </h3>
+
+![prodigy-certifiacate](https://github.com/user-attachments/assets/7d818876-6f5b-4c87-8925-e7e2b89c9d72)
+
+![lor-prod](https://github.com/user-attachments/assets/16c30f02-a912-4be7-9714-0f1aba4513bf)
 
 ![Future-Inter-Certificatre](https://github.com/user-attachments/assets/0702b79a-c9bf-4d68-b3a6-7a20393edcb6)
 
