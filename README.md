@@ -4,6 +4,8 @@
 <h3>Recent...</h3>
 <hr>
 
+![PSA-Certificate](https://github.com/user-attachments/assets/b6292da4-24f5-4cbe-85b1-f823b00b93bf)
+
 ![Future-Inter-Certificatre](https://github.com/user-attachments/assets/1d222077-97e7-42ea-b901-0ae3b2715e2f)
 
 ![softeareengineer-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a96072e0-2f08-4d7f-b1ec-be6f87adb3f5)
@@ -152,6 +154,8 @@
 <hr>
 <h3>Programming...</h3>
 <hr>
+
+![PSA-Certificate](https://github.com/user-attachments/assets/43a99e6f-cc28-43bf-8c77-2b5ec65dccf5)
 
 ![problem-solver-basic-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f14227a5-652c-446c-848f-7ddf88532a7c)
 
