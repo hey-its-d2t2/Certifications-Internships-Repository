@@ -1,8 +1,31 @@
-# Achivements
-<h1>🥳👨‍🎓Achivements of learning on different platforms i.e. Certificates....</h1>
-<hr>
-<h3>Recent...</h3>
-<hr>
+# 🌟 Certifications & Internships Repository 🌟
+Welcome to my repository where I have gathered all the certifications I've earned from various renowned platforms and internships I’ve completed over the course of my learning journey. This repository serves as a testament to my dedication to self-development, passion for continuous learning, and commitment to career growth in the field of technology.
+
+# 🔥 Why this Repository?
+- To showcase my hard work and the skills I've gained by passing rigorous tests and completing hands-on projects.
+- Reflects my drive for self-improvement, my willingness to take on new challenges, and my curiosity to explore cutting-edge technologies.
+- Demonstrates my ability to adapt, learn, and thrive in dynamic and fast-paced environments.
+# 🚀 What’s Inside:
+- Certifications from leading platforms such as HackerRank, EC-Council, CISCO, Google Analytics Academy, IBM, and more.
+- Internship certificates showcasing real-world experience from industry leaders and reflecting my professional growth.
+- A visual record of my journey through various domains such as software engineering, web development, cybersecurity, Java backend development, and much more.
+    - ### Table of Contents
+      - Recent
+      - Badges
+      -  Internship's
+      -  Cyber security & Ethical Hacking
+      -  Web Development & Design
+      -  Programming
+      -  Google tools
+      -  Graphics Designing
+      -  Accounting & Finance
+      -   Microsoft Office
+#  🎯 My Mission:
+I believe in continuous learning as the key to success in the tech world. Each certification and internship completed represents my hunger for knowledge and my determination to excel and push my career forward in technology.
+> [!TIP]
+> # Feel free to explore my journey towards personal and professional excellence!
+
+> # Recent...
 
 ![prodigy-certifiacate](https://github.com/user-attachments/assets/747efa7b-a505-4346-b8d4-be3da751930e)
 
@@ -46,21 +69,11 @@
 
 ![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b480faf1-0fae-4369-8d5f-a75014841131)
 
-<hr>
-<h3>Badges...</h3>
-<hr>
+> # Badges...
 
-![I2CS__1_](https://github.com/hey-its-d2t2/Achivements/assets/63626210/21151613-b604-456c-9cad-3d5ac15d9f81) ![computer-hardware-basics](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5a841e4b-f639-4c39-8ef9-9ec6051455f6) ![1694946149178](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ef584661-6ac9-4927-be6a-e39db062b76d) ![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a) ![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e)
+![I2CS__1_](https://github.com/hey-its-d2t2/Achivements/assets/63626210/21151613-b604-456c-9cad-3d5ac15d9f81) ![computer-hardware-basics](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5a841e4b-f639-4c39-8ef9-9ec6051455f6) ![1694946149178](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ef584661-6ac9-4927-be6a-e39db062b76d) ![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a) ![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e) ![WhatsApp Image 2023-09-20 at 10 30 57 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/00f3ab5e-1d78-4f3a-9241-19b77b9069d5) ![WhatsApp Image 2023-09-20 at 10 57 12 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c47495f5-f6a8-415d-bba4-60ccc248739e) ![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49) ![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620) ![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440) ![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
 
-![WhatsApp Image 2023-09-20 at 10 30 57 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/00f3ab5e-1d78-4f3a-9241-19b77b9069d5)
-
-![WhatsApp Image 2023-09-20 at 10 57 12 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c47495f5-f6a8-415d-bba4-60ccc248739e)
-
-
-![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49) ![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620) ![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440) ![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
-
-<hr>
-<h3> Internship's </h3>
+> # Internship's
 
 ![prodigy-certifiacate](https://github.com/user-attachments/assets/7d818876-6f5b-4c87-8925-e7e2b89c9d72)
 
@@ -68,9 +81,8 @@
 
 ![Future-Inter-Certificatre](https://github.com/user-attachments/assets/0702b79a-c9bf-4d68-b3a6-7a20393edcb6)
 
-<hr>
-<h3>Cyber security & Ethical Hacking...</h3>
-<hr>
+> # Cyber security & Ethical Hacking...
+
 
 ![IBM_CYsec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9d9ce078-090e-46aa-9fea-c4fdd496a5dc)
 
@@ -90,7 +102,6 @@
 
 ![cysec](https://github.com/hey-its-d2t2/Achivements/assets/63626210/6bb3bfa9-1d40-4d05-a542-61c3a2275c47)
 
-
 ![UC-1cfe9752-0d04-4361-a6de-33040d7d27fa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/89780f28-c989-4273-95ce-019570cef0e7)
 
 ![UC-7c362d22-fea0-490b-b01f-099a0602dc06](https://github.com/hey-its-d2t2/Achivements/assets/63626210/fcfee2bd-6286-49fe-9f5d-ce1467a79585)
@@ -100,7 +111,6 @@
 ![UC-8b87069a-5399-4419-a095-55a36a59c049](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d595c6c7-6d12-475e-91c5-8bf1397d2c81)
 
 ![UC-dfb91319-b1df-455b-a9b5-96398ea7ea4d](https://github.com/hey-its-d2t2/Achivements/assets/63626210/b7ea68e8-1acb-4391-be6b-1ba875b525c0)
-
 
 ![UC-8db46d0d-6d00-4203-964c-7c5282d81859](https://github.com/hey-its-d2t2/Achivements/assets/63626210/75a86bc3-95d0-43fb-8422-6e03a7f915e1)
 
@@ -126,13 +136,11 @@
 
 ![UC-e4718b48-58e0-4f52-898e-5d0f84ebc40d](https://github.com/hey-its-d2t2/Achivements/assets/63626210/959e5056-e823-4f8b-ad41-9537dc7df634)
 
-
 ![UC-f0a27dd0-4a00-4793-997f-037bb3f00411](https://github.com/hey-its-d2t2/Achivements/assets/63626210/232d6ff6-e9c8-4d0d-ba04-fd4c364b7bc1)
 
 ![UC-fb901e19-4baa-47b4-abb9-98ecfc43133f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9126212f-e7f3-40cc-b2ff-974303e08512)
-<hr>
-<h3>Web Development & Design...</h3>
-<hr>
+
+> # Web Development & Design...
 
 ![DeepakSingh-Responsive-Web-Development-freeCodeCamp org](https://github.com/hey-its-d2t2/Achivements/assets/63626210/dcb9cd9f-be05-451b-b760-27b842c54762)
 
@@ -156,20 +164,24 @@
 
 ![UC-fa2e1e0c-0da6-44d8-9e2c-795452ceb85f](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0e92dccc-f25e-4ffd-8002-1d7a0f4f4164)
 
-<hr>
-<h3>Programming...</h3>
-<hr>
+> # Programming...
 
 ![PSA-Certificate](https://github.com/user-attachments/assets/43a99e6f-cc28-43bf-8c77-2b5ec65dccf5)
 
 ![problem-solver-basic-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/f14227a5-652c-446c-848f-7ddf88532a7c)
 
 ![sql-inter-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/346dda7c-947f-4f85-bea7-64bdfa31fa8a)
+
 ![sql-basics-hackerrank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/74d3b3df-eaa3-4ade-8a43-6e4264e32cd7)
+
 ![Java-HackerRank](https://github.com/hey-its-d2t2/Achivements/assets/63626210/0a4cf435-4543-4893-b04e-1b56824a8d2f)
+
 ![java_cnj](https://github.com/hey-its-d2t2/Achivements/assets/63626210/67eb4d67-5d9a-4f55-8df5-f463f2745978)
+
 ![certificate-Learn-Socket-Programming-Tutorial-in-C-from-Scratch (1)](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a5418d46-5115-48db-8902-85fbe4ed3b8f)
+
 ![Python](https://github.com/hey-its-d2t2/Achivements/assets/63626210/6e7ecc46-0c73-495c-8dfa-4a328daaf6af)
+
 ![UC-750316c7-de53-4738-97e7-ff5e7ff6174e](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1dce6b40-942f-43b1-86d9-505b389c496c)
 
 ![UC-5b502e85-dab7-47ac-a43c-1726f9567961](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e93fba1b-9395-4691-9783-939b42e8e271)
@@ -181,17 +193,16 @@
 ![UC-83dacf1c-94cb-402f-b3e3-d55b69f3e141](https://github.com/hey-its-d2t2/Achivements/assets/63626210/50c88825-5ae0-4bf2-8583-112e240f1db8)
 
 ![UC-a1156645-9829-4f5a-b107-1260adc4fd82](https://github.com/hey-its-d2t2/Achivements/assets/63626210/cdb7b25c-ad50-4d13-a2cd-11c9f9269983)
+
 ![certificate-Learn-the-Basics-of-C-Programming-Language](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d6ad6250-a32b-402f-b99c-5977a1644d43)
+
 ![UC-c607fc20-945c-4dd2-984a-afadec69b788](https://github.com/hey-its-d2t2/Achivements/assets/63626210/da8c0743-bff3-496e-9c23-afd22a1cadc2)
+
 ![UC-a131f4ec-bb3d-495f-a2fb-e3d50031ea72](https://github.com/hey-its-d2t2/Achivements/assets/63626210/495c67b3-1c2e-460d-9d53-5c235e3725a3)
 
 ![UC-e0cda6c3-2d5c-404a-a603-6a1edf8393bf](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9ddb9954-4c78-4140-9765-97b38eb9dd3a)
 
-
-
-<hr>
-<h3>Google tools...</h3>
-<hr>
+> # Google tools...
 
 ![GoogleAnalyt](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ac06010a-8d5c-4403-a86c-fbfaad97a16e)
 
@@ -207,17 +218,13 @@
 
 ![UC-e11a8ee1-fcab-4c01-a2e0-9743e53dc882](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1e969217-b2f8-4a10-ba3a-3eb10fe2ce33)
 
-<hr>
-<h3>Accounting & Finance...</h3>
-<hr>
+. # Accounting & Finance...
 
 ![UC-adb3b853-51e4-494b-ad08-5152d9becc7c](https://github.com/hey-its-d2t2/Achivements/assets/63626210/fb194e05-8198-4bd6-be73-5e3ceffec631)
 
 ![UC-890b40b2-98ed-445f-b29b-9b23e8c8e914](https://github.com/hey-its-d2t2/Achivements/assets/63626210/a300a573-abcc-4349-9f42-ff3f1616e976)
 
-<hr>
-<h3>Video, Photo, Logo...</h3>
-<hr>
+> # Graphics Designing 
 
 ![UC-2661af95-6544-4957-bd09-2f6bb44cd9e6](https://github.com/hey-its-d2t2/Achivements/assets/63626210/d506d897-8058-4a44-a90b-e2ebca2d636b)
 
@@ -229,12 +236,9 @@
 
 ![UC-14a6efb5-e368-4277-bbab-4f60f4495e65](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8820cc4b-19b2-4a18-a019-641b58fa034e)
 
-<hr>
-<h3>Microsoft Office...</h3>
-<hr>
+> # Microsoft Office...
 
 ![IIT_B_LibOff_Dpk](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1ead32c9-7996-4f09-a935-7a9be14c2401)
-
 
 ![UC-2ca7fffa-c107-4594-b0c9-68ce8122dafa](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1e3af6e0-7fbb-4121-a3fb-0a08e30a4d20)
 
@@ -243,6 +247,7 @@
 ![UC-91e6ed7a-0bd6-4a35-898d-963239f9f4e1](https://github.com/hey-its-d2t2/Achivements/assets/63626210/e5cf053a-180e-4a25-8eaa-602a6c0b8b06)
 
 ![MExcl2](https://github.com/hey-its-d2t2/Achivements/assets/63626210/3ba2150d-b271-49f5-a02d-6732f7b10753)
+
 ![UC-318cd8c8-66df-4a02-bf42-2655839eaa15](https://github.com/hey-its-d2t2/Achivements/assets/63626210/9617c453-7c84-4a3e-b2ec-037e5b5b93e6)
 
 ![UC-984dbe8a-792e-4a15-8615-c6233f5e6cc5](https://github.com/hey-its-d2t2/Achivements/assets/63626210/48b1febe-22c3-4677-b8c3-2430feaa2256)
