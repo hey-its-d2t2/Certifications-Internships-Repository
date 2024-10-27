@@ -27,6 +27,8 @@ I believe in continuous learning as the key to success in the tech world. Each c
 
 > # Recent...
 
+![Hulk Hire Internship Completion](https://github.com/user-attachments/assets/deb53f77-e8bb-4a57-8d26-6f1691393ab4)
+
 ![prodigy-certifiacate](https://github.com/user-attachments/assets/747efa7b-a505-4346-b8d4-be3da751930e)
 
 ![lor-prod](https://github.com/user-attachments/assets/91e07647-38f7-48aa-95ff-d580a6e780ca)
@@ -74,6 +76,8 @@ I believe in continuous learning as the key to success in the tech world. Each c
 ![I2CS__1_](https://github.com/hey-its-d2t2/Achivements/assets/63626210/21151613-b604-456c-9cad-3d5ac15d9f81) ![computer-hardware-basics](https://github.com/hey-its-d2t2/Achivements/assets/63626210/5a841e4b-f639-4c39-8ef9-9ec6051455f6) ![1694946149178](https://github.com/hey-its-d2t2/Achivements/assets/63626210/ef584661-6ac9-4927-be6a-e39db062b76d) ![1694945535327](https://github.com/hey-its-d2t2/Achivements/assets/63626210/64008e17-7e3b-4028-b844-fe9a735c157a) ![1694944847303](https://github.com/hey-its-d2t2/Achivements/assets/63626210/8fcfc35b-ac84-4696-bcde-cf46e653818e) ![WhatsApp Image 2023-09-20 at 10 30 57 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/00f3ab5e-1d78-4f3a-9241-19b77b9069d5) ![WhatsApp Image 2023-09-20 at 10 57 12 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/c47495f5-f6a8-415d-bba4-60ccc248739e) ![WhatsApp Image 2023-09-20 at 11 20 39 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/03ae4a1e-8f93-44ef-8043-60b55efe9d49) ![WhatsApp Image 2023-09-20 at 11 26 10 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/07d44b00-981c-472e-af7a-9899ec7b8620) ![WhatsApp Image 2023-09-20 at 11 30 06 PM](https://github.com/hey-its-d2t2/Achivements/assets/63626210/1af4bdbc-fbe2-49d7-a0a5-00c934947440) ![FireShot Capture 048 - Keyword in Exception Handling (MCQ Problem) - Coding Ninjas_ - www codingninjas com](https://github.com/hey-its-d2t2/Achivements/assets/63626210/739bf8f5-2268-459d-aade-57dc78b2bab6)
 
 > # Internship's
+
+![Hulk Hire Internship Completion](https://github.com/user-attachments/assets/fadd0ce9-cfa8-4fa8-95de-d07922eea3dc)
 
 ![prodigy-certifiacate](https://github.com/user-attachments/assets/7d818876-6f5b-4c87-8925-e7e2b89c9d72)
 
