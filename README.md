@@ -25,6 +25,10 @@ I believe in continuous learning as the key to success in the tech world. Each c
 > [!TIP]
 > # Feel free to explore my journey towards personal and professional excellence!
 
+> [!TIP]
+> # How the Journey begins...
+>  ![Diksha cards ](https://github.com/user-attachments/assets/8b53c28c-3e4f-4a02-9e4d-5a969405d54e)
+
 > # Recent...
 
 ![Hulk Hire Internship Completion](https://github.com/user-attachments/assets/deb53f77-e8bb-4a57-8d26-6f1691393ab4)
